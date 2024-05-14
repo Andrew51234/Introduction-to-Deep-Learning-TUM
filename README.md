@@ -24,6 +24,3 @@ Contributions to this repository are welcome! If you find any errors, have sugge
 
 ## Acknowledgements
 We acknowledge the TUM Department of Informatics for providing the exercises and course materials for IN2346.
-
-## Contact
-For any inquiries or assistance regarding the exercises or the course, please contact [Course Instructor Name] at [instructor_email@example.com].
