@@ -13,7 +13,7 @@ The exercises in this repository cover a range of topics taught in the IN2346 co
 - Exercise 4 – Solver and Linear Regression
 - Exercise 5 – Neural Networks
 - Exercise 6 – Hyperparameter Tuning
-- Exercise 7 – Intro to Pytorch [Optional]
+- Exercise 7 – Intro to Pytorch
 - Exercise 8 – Autoencoder
 - Exercise 9 – Convolutional Neural Networks
 - Exercise 10 – Semantic Segmentation
